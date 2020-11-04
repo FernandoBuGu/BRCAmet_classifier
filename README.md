@@ -5,13 +5,13 @@ Project: Deep Learning Classifier to estimate the probability of future metastas
 
 Generate input files from online data repositories:
 
-BRCAmet_getInput.R: Generate input files
+- BRCAmet_getInput.R: Generate input files
 
-BRCAmet_funs1.R: Auxiliary functions for BRCAmet_getInput.R: multiple options to combine online data 
+- BRCAmet_funs1.R: Auxiliary functions for BRCAmet_getInput.R: multiple options to combine online data 
 
-BRCAmet_funs2.R: Auxiliary functions for BRCAmet_funs1.R: multiple options to select predictors
+- BRCAmet_funs2.R: Auxiliary functions for BRCAmet_funs1.R: multiple options to select predictors
 
 
 Run classifier (with tensorflow): 
 
-BRCAmet_classifier.py
+- BRCAmet_classifier.py
